@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkathenaserving=self.webpackChunkathenaserving||[]).push([[2195],{3870:e=>{e.exports=JSON.parse('{"label":"git","permalink":"/mindcrestocean/en/blog/tags/git","allTagsPath":"/mindcrestocean/en/blog/tags","count":1}')}}]);
